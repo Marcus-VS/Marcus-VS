@@ -1,6 +1,6 @@
 - 👋 Oi, muito prazer eu sou Marcus Vinicius / @Marcus-VS
 - 👀 Estou interessado em aprender cada dia mais e colcoar em pratica tudo que eu estou estudando.
-- 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS e voltando a estudar Java
+- 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS
 - 📫 Como me encontrar:
 Email: marcusviniciusjogar@gmail.com
 Numero de contato: (+55) ** *****-****
