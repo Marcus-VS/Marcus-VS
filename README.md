@@ -19,9 +19,7 @@ Numero de contato: (+55) ** *****-****
       </div>
    </div>
 </div>
-  <img align="center" alt="Mac-CSS" height="64" width="64" src="https://icongr.am/devicon/git-original.svg?size=978&color=currentColor">
-      <hr>
-
+  <img align="center" alt="Mac-CSS" height="500" width="282" src="https://thumbs.gfycat.com/BareEarlyCanadagoose-mobile.mp4">
 <! ---
 Marcus-VS / Marcus-VS é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 Você pode clicar no link Visualizar para ver as alterações.
