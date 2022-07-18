@@ -19,7 +19,7 @@ Numero de contato: (+55) ** *****-****
       </div>
    </div>
 </div>
-<iframe src='https://gfycat.com/ifr/BareEarlyCanadagoose' frameborder='0' scrolling='no' allowfullscreen width='640' height='405'></iframe><p> <a href="https://gfycat.com/bareearlycanadagoose">via Gfycat</a></p>
+<iframe src='https://gfycat.com/ifr/BareEarlyCanadagoose'></iframe>
 <! ---
 Marcus-VS / Marcus-VS é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 Você pode clicar no link Visualizar para ver as alterações.
