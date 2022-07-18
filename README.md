@@ -7,7 +7,7 @@ Numero de contato: (+55) ** *****-****
 
 <div>
   <a href="https://github.com/Marcus-VS">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-VS)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" alt="Zac-Status" src="https://github-readme-stats.vercel.app/api?username=Marcus-VS"/>
     <div>
       <div style="display: inline_block"><br>
         <img align="center" alt="Zac-Js" height="64" width="64" src="https://icongr.am/devicon/nodejs-original.svg?size=97&color=currentColor">
