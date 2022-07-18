@@ -14,12 +14,12 @@ Numero de contato: (+55) ** *****-****
         <img align="center" alt="Mac-BootStrap" height="64" width="64" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=0011ff">
         <img align="center" alt="Mac-PhotoShop" height="64" width="64" src="https://icongr.am/devicon/photoshop-line.svg?size=128&color=0011ff">
         <img align="center" alt="Mac-JS" height="64" width="64" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=0011ff">
-        <img align="center" alt="Mac-HTML" height="64" width="64" src="https://icongr.am/devicon/postgresql-original.svg?size=97&color=currentColor">
-        <img align="center" alt="Mac-CSS" height="64" width="64" src="https://icongr.am/devicon/git-original.svg?size=978&color=currentColor">
+        <img align="center" alt="Mac-HTML" height="64" width="64" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=ffffff">
+        <img align="center" alt="Mac-CSS" height="64" width="64" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=ffffff">
       </div>
    </div>
 </div>
-<iframe src='https://gfycat.com/ifr/BareEarlyCanadagoose'></iframe>
+  <img align="center" alt="Mac-Gif" height="420" width="1280" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-33.gif">
 <! ---
 Marcus-VS / Marcus-VS é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 Você pode clicar no link Visualizar para ver as alterações.
